@@ -1,6 +1,10 @@
 [package]
-name = "SigmaOS-as"
+name = "sigmaos_as"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS as component inspired by Linux Mint / Omarchy / Arch Linux."
 
-[dependencies]
+[lib]
+name = "sigmaos_as"
+path = "src/lib.rs"
