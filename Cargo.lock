@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "SigmaOS-as"
+name = "sigmaos_as"
 version = "0.1.0"
