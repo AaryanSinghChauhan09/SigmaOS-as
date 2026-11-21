@@ -1,9 +1,9 @@
 # SigmaOS-as
 
-No GitHub description is set; component scope remains unclassified.
+AppStream for SigmaOS inspired by SigmaOS Linux
 
-- **Category:** Compilers
-- **Engine:** compiler_toolchain
+- **Category:** Utilities
+- **Engine:** appstream
 - **Language:** Rust
 
 ## Build & Test

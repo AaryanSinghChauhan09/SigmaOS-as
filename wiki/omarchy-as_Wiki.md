@@ -1,7 +1,7 @@
 # SigmaOS-SigmaOS-as Component Wiki
 
 ## Overview
-SigmaOS-SigmaOS-as provides No GitHub description is set; component scope remains unclassified. for the SigmaOS operating system. It demonstrates the subsystem and integration within the SigmaOS ecosystem, following the principles of clear abstraction and deterministic initialization.
+SigmaOS-SigmaOS-as provides AppStream software metadata catalog for the SigmaOS operating system. It demonstrates the subsystem and integration within the SigmaOS ecosystem, following the principles of clear abstraction and deterministic initialization.
 
 ## Principles
 - Single Responsibility
